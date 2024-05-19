@@ -17,6 +17,9 @@
 		D05C88312BF9BA1E0025F7F8 /* PivotIndex.swift in Sources */ = {isa = PBXBuildFile; fileRef = D05C88302BF9BA1E0025F7F8 /* PivotIndex.swift */; };
 		D05C88332BF9BAA40025F7F8 /* StringMultyply.swift in Sources */ = {isa = PBXBuildFile; fileRef = D05C88322BF9BAA40025F7F8 /* StringMultyply.swift */; };
 		D05C88352BF9BB540025F7F8 /* PrimeNumbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = D05C88342BF9BB540025F7F8 /* PrimeNumbers.swift */; };
+		D05C88372BF9DA2D0025F7F8 /* Sheive.swift in Sources */ = {isa = PBXBuildFile; fileRef = D05C88362BF9DA2D0025F7F8 /* Sheive.swift */; };
+		D05C88392BFA1A590025F7F8 /* TwoSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = D05C88382BFA1A590025F7F8 /* TwoSum.swift */; };
+		D05C883B2BFA1C5E0025F7F8 /* PalindromeNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = D05C883A2BFA1C5E0025F7F8 /* PalindromeNumber.swift */; };
 		D0D7DD872BF8C29A0012D881 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0D7DD862BF8C29A0012D881 /* AppDelegate.swift */; };
 		D0D7DD892BF8C29A0012D881 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0D7DD882BF8C29A0012D881 /* SceneDelegate.swift */; };
 		D0D7DD8B2BF8C29A0012D881 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0D7DD8A2BF8C29A0012D881 /* ViewController.swift */; };
@@ -56,6 +59,9 @@
 		D05C88302BF9BA1E0025F7F8 /* PivotIndex.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PivotIndex.swift; sourceTree = "<group>"; };
 		D05C88322BF9BAA40025F7F8 /* StringMultyply.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StringMultyply.swift; sourceTree = "<group>"; };
 		D05C88342BF9BB540025F7F8 /* PrimeNumbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PrimeNumbers.swift; sourceTree = "<group>"; };
+		D05C88362BF9DA2D0025F7F8 /* Sheive.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sheive.swift; sourceTree = "<group>"; };
+		D05C88382BFA1A590025F7F8 /* TwoSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TwoSum.swift; sourceTree = "<group>"; };
+		D05C883A2BFA1C5E0025F7F8 /* PalindromeNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PalindromeNumber.swift; sourceTree = "<group>"; };
 		D0D7DD832BF8C29A0012D881 /* DSA-Swift.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "DSA-Swift.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D0D7DD862BF8C29A0012D881 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D0D7DD882BF8C29A0012D881 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -116,6 +122,9 @@
 				D05C882C2BF9B77F0025F7F8 /* SmallestEvenNumber.swift */,
 				D05C88302BF9BA1E0025F7F8 /* PivotIndex.swift */,
 				D05C88342BF9BB540025F7F8 /* PrimeNumbers.swift */,
+				D05C88362BF9DA2D0025F7F8 /* Sheive.swift */,
+				D05C88382BFA1A590025F7F8 /* TwoSum.swift */,
+				D05C883A2BFA1C5E0025F7F8 /* PalindromeNumber.swift */,
 			);
 			path = Math;
 			sourceTree = "<group>";
@@ -309,10 +318,13 @@
 				D05C88252BF9B39E0025F7F8 /* ReverseInteger.swift in Sources */,
 				D05C88212BF9B3300025F7F8 /* Executable.swift in Sources */,
 				D05C882B2BF9B70F0025F7F8 /* AddDigit.swift in Sources */,
+				D05C883B2BFA1C5E0025F7F8 /* PalindromeNumber.swift in Sources */,
+				D05C88392BFA1A590025F7F8 /* TwoSum.swift in Sources */,
 				D0D7DD872BF8C29A0012D881 /* AppDelegate.swift in Sources */,
 				D0D7DD892BF8C29A0012D881 /* SceneDelegate.swift in Sources */,
 				D05C88292BF9B69C0025F7F8 /* SumWithOutArithmaticOperator.swift in Sources */,
 				D05C882D2BF9B77F0025F7F8 /* SmallestEvenNumber.swift in Sources */,
+				D05C88372BF9DA2D0025F7F8 /* Sheive.swift in Sources */,
 				D05C88312BF9BA1E0025F7F8 /* PivotIndex.swift in Sources */,
 				D05C88272BF9B6170025F7F8 /* Sum.swift in Sources */,
 				D05C88332BF9BAA40025F7F8 /* StringMultyply.swift in Sources */,

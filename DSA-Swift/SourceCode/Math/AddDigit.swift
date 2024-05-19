@@ -9,7 +9,7 @@ import Foundation
 
 class AddDigit: Executable{
     func excecute() {
-        print(self.addDigits(2, 3))
+        print(self.addDigits(123))
     }
     
     func addDigits(_ num: Int) -> Int {
