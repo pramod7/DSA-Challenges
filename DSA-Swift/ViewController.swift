@@ -25,6 +25,8 @@ class ViewController: UIViewController {
 //        StringMultyply.init().excecute()
 //        Sheive.init().excecute()
 //        TwoSum.init().excecute()
-        PalindromeNumber.init().excecute()
+//        PalindromeNumber.init().excecute()
+//        LargestElementInArray.init().excecute()
+        SecondLargestInArray.init().excecute()
     }
 }
