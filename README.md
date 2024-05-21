@@ -21,3 +21,7 @@ Data Structures and Algorithms in Swift
  10. [Sheive](https://github.com/pramod7/DSA-Challenges/blob/7eba585507c2183049caf490a56e0b5e1e048d43/DSA-Swift/SourceCode/Math/Sheive.swift)
  11. [Two Sum](https://github.com/pramod7/DSA-Challenges/blob/7eba585507c2183049caf490a56e0b5e1e048d43/DSA-Swift/SourceCode/Math/TwoSum.swift)
  12. [Pelindrome Number](https://github.com/pramod7/DSA-Challenges/blob/7eba585507c2183049caf490a56e0b5e1e048d43/DSA-Swift/SourceCode/Math/PalindromeNumber.swift)
+
+## Array
+ 1. [Largest Element in Array](https://github.com/pramod7/DSA-Challenges/blob/f0451a3c4bde79f0eb268ccda1b1612556079085/DSA-Swift/SourceCode/Array/LargestElementInArray%20.swift)
+ 2. [Second Largest Element in Array](https://github.com/pramod7/DSA-Challenges/blob/f0451a3c4bde79f0eb268ccda1b1612556079085/DSA-Swift/SourceCode/Array/SecondLargestInArray.swift) 
