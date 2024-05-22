@@ -27,6 +27,8 @@ class ViewController: UIViewController {
 //        TwoSum.init().excecute()
 //        PalindromeNumber.init().excecute()
 //        LargestElementInArray.init().excecute()
-        SecondLargestInArray.init().excecute()
+//        SecondLargestInArray.init().excecute()
+//        RemoveDublicate.init().excecute()
+         SumOf1dArray.init().excecute()
     }
 }
