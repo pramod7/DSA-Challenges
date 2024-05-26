@@ -29,6 +29,9 @@ class ViewController: UIViewController {
 //        LargestElementInArray.init().excecute()
 //        SecondLargestInArray.init().excecute()
 //        RemoveDublicate.init().excecute()
-         SumOf1dArray.init().excecute()
+//         SumOf1dArray.init().excecute()
+//        ThreeSum.init().excecute()
+//        RotateArray.init().excecute()
+        MaximumSubArray.init().excecute()
     }
 }

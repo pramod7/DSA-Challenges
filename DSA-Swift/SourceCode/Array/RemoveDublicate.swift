@@ -14,16 +14,26 @@ class RemoveDublicate : Executable{
     }
     
     func removeDuplicates(_ nums: inout [Int]) -> Int {
+        //        guard nums.count > 1 else{ return 1 }
+        //        let count = nums.count
+        //        var keep = 1
+        //        for i in 1..<count{
+        //            if nums[i &- 1] != nums[i]{
+        //                nums[keep] = nums[i]
+        //                keep += 1
+        //            }
+        //        }
+        //        nums.removeLast(count &- keep)
+        //        return keep
         guard nums.count > 1 else{ return 1 }
         let count = nums.count
-        var keep = 1
-        for i in 1..<count{
-            if nums[i &- 1] != nums[i]{
-                nums[keep] = nums[i]
-                keep += 1
+        var i = 0
+        for j in 1..<count{
+            if nums[i] != nums[j]{
+                nums[i+1] = nums[j]
+                i += 1
             }
         }
-        nums.removeLast(count &- keep)
-        return keep
+        return i+1
     }
 }

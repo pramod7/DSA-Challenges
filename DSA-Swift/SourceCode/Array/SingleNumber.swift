@@ -18,6 +18,6 @@ class SingleNumber : Executable{
         for i in 1..<nums.count{
             
         }
-        return arrNums
+        return 0
     }
 }
