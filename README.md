@@ -27,3 +27,6 @@ Data Structures and Algorithms in Swift
  2. [Second Largest Element in Array](https://github.com/pramod7/DSA-Challenges/blob/f0451a3c4bde79f0eb268ccda1b1612556079085/DSA-Swift/SourceCode/Array/SecondLargestInArray.swift)
  3. [Remove Dublicate](https://github.com/pramod7/DSA-Challenges/blob/dc416c8c9821ee378334d51772b6ce75aa92783a/DSA-Swift/SourceCode/Array/RemoveDublicate.swift)
  4. [SumOf1dArray](https://github.com/pramod7/DSA-Challenges/blob/dc416c8c9821ee378334d51772b6ce75aa92783a/DSA-Swift/SourceCode/Array/SumOf1dArray.swift)
+ 5. [Rotate Array](https://github.com/pramod7/DSA-Challenges/blob/81010f47dfed623ab93d19acdb7a5d218b30d048/DSA-Swift/SourceCode/Array/RotateArray.swift)
+ 6. [Maximum Sub Array](https://github.com/pramod7/DSA-Challenges/blob/81010f47dfed623ab93d19acdb7a5d218b30d048/DSA-Swift/SourceCode/Array/MaximumSubArray.swift)
+ 7. [Three Sum](https://github.com/pramod7/DSA-Challenges/blob/81010f47dfed623ab93d19acdb7a5d218b30d048/DSA-Swift/SourceCode/Array/ThreeSum.swift)
