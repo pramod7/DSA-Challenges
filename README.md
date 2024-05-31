@@ -30,3 +30,11 @@ Data Structures and Algorithms in Swift
  5. [Rotate Array](https://github.com/pramod7/DSA-Challenges/blob/81010f47dfed623ab93d19acdb7a5d218b30d048/DSA-Swift/SourceCode/Array/RotateArray.swift)
  6. [Maximum Sub Array](https://github.com/pramod7/DSA-Challenges/blob/81010f47dfed623ab93d19acdb7a5d218b30d048/DSA-Swift/SourceCode/Array/MaximumSubArray.swift)
  7. [Three Sum](https://github.com/pramod7/DSA-Challenges/blob/81010f47dfed623ab93d19acdb7a5d218b30d048/DSA-Swift/SourceCode/Array/ThreeSum.swift)
+
+## Recusrion
+ 1. [FibonacciNumber](https://github.com/pramod7/DSA-Challenges/blob/14c91e2437280dadcb8c350a2fb7adc801835de8/DSA-Swift/SourceCode/Recursion/FibonacciNumber.swift)
+ 2. [ClimbingStairs](https://github.com/pramod7/DSA-Challenges/blob/14c91e2437280dadcb8c350a2fb7adc801835de8/DSA-Swift/SourceCode/Recursion/ClimbingStairs.swift)
+ 3. [OneToN](https://github.com/pramod7/DSA-Challenges/blob/14c91e2437280dadcb8c350a2fb7adc801835de8/DSA-Swift/SourceCode/Recursion/OneToN.swift)
+ 4. [NToOne](https://github.com/pramod7/DSA-Challenges/blob/14c91e2437280dadcb8c350a2fb7adc801835de8/DSA-Swift/SourceCode/Recursion/NToOne.swift)
+ 5. [Factorial](https://github.com/pramod7/DSA-Challenges/blob/14c91e2437280dadcb8c350a2fb7adc801835de8/DSA-Swift/SourceCode/Recursion/Factorial.swift)
+ 6. [PascalTriangle](https://github.com/pramod7/DSA-Challenges/blob/14c91e2437280dadcb8c350a2fb7adc801835de8/DSA-Swift/SourceCode/Recursion/PascalTriangle.swift)
