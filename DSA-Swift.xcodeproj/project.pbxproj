@@ -12,6 +12,8 @@
 		D04491242BFE473800008D44 /* SingleNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = D04491232BFE473800008D44 /* SingleNumber.swift */; };
 		D04491262C01B09800008D44 /* ThreeSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = D04491252C01B09800008D44 /* ThreeSum.swift */; };
 		D04B8F472C03487800B0CC2E /* MaximumSubArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = D04B8F462C03487800B0CC2E /* MaximumSubArray.swift */; };
+		D04B8F4A2C08306300B0CC2E /* FibonacciNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = D04B8F492C08306300B0CC2E /* FibonacciNumber.swift */; };
+		D04B8F4C2C08BFAD00B0CC2E /* ClimbingStairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = D04B8F4B2C08BFAD00B0CC2E /* ClimbingStairs.swift */; };
 		D05C88212BF9B3300025F7F8 /* Executable.swift in Sources */ = {isa = PBXBuildFile; fileRef = D05C88202BF9B3300025F7F8 /* Executable.swift */; };
 		D05C88252BF9B39E0025F7F8 /* ReverseInteger.swift in Sources */ = {isa = PBXBuildFile; fileRef = D05C88242BF9B39E0025F7F8 /* ReverseInteger.swift */; };
 		D05C88272BF9B6170025F7F8 /* Sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = D05C88262BF9B6170025F7F8 /* Sum.swift */; };
@@ -25,6 +27,10 @@
 		D05C88372BF9DA2D0025F7F8 /* Sheive.swift in Sources */ = {isa = PBXBuildFile; fileRef = D05C88362BF9DA2D0025F7F8 /* Sheive.swift */; };
 		D05C88392BFA1A590025F7F8 /* TwoSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = D05C88382BFA1A590025F7F8 /* TwoSum.swift */; };
 		D05C883B2BFA1C5E0025F7F8 /* PalindromeNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = D05C883A2BFA1C5E0025F7F8 /* PalindromeNumber.swift */; };
+		D06BEEC92C09BA65009A069B /* OneToN.swift in Sources */ = {isa = PBXBuildFile; fileRef = D06BEEC82C09BA65009A069B /* OneToN.swift */; };
+		D06BEECB2C09C12E009A069B /* Factorial.swift in Sources */ = {isa = PBXBuildFile; fileRef = D06BEECA2C09C12E009A069B /* Factorial.swift */; };
+		D06BEECD2C09C77E009A069B /* NToOne.swift in Sources */ = {isa = PBXBuildFile; fileRef = D06BEECC2C09C77E009A069B /* NToOne.swift */; };
+		D06BEECF2C09EADF009A069B /* PascalTriangle.swift in Sources */ = {isa = PBXBuildFile; fileRef = D06BEECE2C09EADF009A069B /* PascalTriangle.swift */; };
 		D06DC61D2C020AE500772686 /* RotateArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = D06DC61C2C020AE500772686 /* RotateArray.swift */; };
 		D0B4B4292BFCEE2900F3EA26 /* LargestElementInArray .swift in Sources */ = {isa = PBXBuildFile; fileRef = D0B4B4282BFCEE2900F3EA26 /* LargestElementInArray .swift */; };
 		D0B4B42C2BFCF7FB00F3EA26 /* SecondLargestInArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0B4B42B2BFCF7FB00F3EA26 /* SecondLargestInArray.swift */; };
@@ -62,6 +68,8 @@
 		D04491232BFE473800008D44 /* SingleNumber.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SingleNumber.swift; sourceTree = "<group>"; };
 		D04491252C01B09800008D44 /* ThreeSum.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ThreeSum.swift; sourceTree = "<group>"; };
 		D04B8F462C03487800B0CC2E /* MaximumSubArray.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MaximumSubArray.swift; sourceTree = "<group>"; };
+		D04B8F492C08306300B0CC2E /* FibonacciNumber.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FibonacciNumber.swift; sourceTree = "<group>"; };
+		D04B8F4B2C08BFAD00B0CC2E /* ClimbingStairs.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ClimbingStairs.swift; sourceTree = "<group>"; };
 		D05C88202BF9B3300025F7F8 /* Executable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Executable.swift; sourceTree = "<group>"; };
 		D05C88242BF9B39E0025F7F8 /* ReverseInteger.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReverseInteger.swift; sourceTree = "<group>"; };
 		D05C88262BF9B6170025F7F8 /* Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sum.swift; sourceTree = "<group>"; };
@@ -75,6 +83,10 @@
 		D05C88362BF9DA2D0025F7F8 /* Sheive.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sheive.swift; sourceTree = "<group>"; };
 		D05C88382BFA1A590025F7F8 /* TwoSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TwoSum.swift; sourceTree = "<group>"; };
 		D05C883A2BFA1C5E0025F7F8 /* PalindromeNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PalindromeNumber.swift; sourceTree = "<group>"; };
+		D06BEEC82C09BA65009A069B /* OneToN.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OneToN.swift; sourceTree = "<group>"; };
+		D06BEECA2C09C12E009A069B /* Factorial.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Factorial.swift; sourceTree = "<group>"; };
+		D06BEECC2C09C77E009A069B /* NToOne.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NToOne.swift; sourceTree = "<group>"; };
+		D06BEECE2C09EADF009A069B /* PascalTriangle.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PascalTriangle.swift; sourceTree = "<group>"; };
 		D06DC61C2C020AE500772686 /* RotateArray.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RotateArray.swift; sourceTree = "<group>"; };
 		D0B4B4282BFCEE2900F3EA26 /* LargestElementInArray .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LargestElementInArray .swift"; sourceTree = "<group>"; };
 		D0B4B42B2BFCF7FB00F3EA26 /* SecondLargestInArray.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SecondLargestInArray.swift; sourceTree = "<group>"; };
@@ -118,9 +130,23 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		D04B8F482C08304B00B0CC2E /* Recursion */ = {
+			isa = PBXGroup;
+			children = (
+				D04B8F492C08306300B0CC2E /* FibonacciNumber.swift */,
+				D04B8F4B2C08BFAD00B0CC2E /* ClimbingStairs.swift */,
+				D06BEEC82C09BA65009A069B /* OneToN.swift */,
+				D06BEECC2C09C77E009A069B /* NToOne.swift */,
+				D06BEECA2C09C12E009A069B /* Factorial.swift */,
+				D06BEECE2C09EADF009A069B /* PascalTriangle.swift */,
+			);
+			path = Recursion;
+			sourceTree = "<group>";
+		};
 		D05C88222BF9B3660025F7F8 /* SourceCode */ = {
 			isa = PBXGroup;
 			children = (
+				D04B8F482C08304B00B0CC2E /* Recursion */,
 				D0B4B42A2BFCF7D100F3EA26 /* Array */,
 				D05C88232BF9B37D0025F7F8 /* Math */,
 			);
@@ -347,6 +373,8 @@
 			files = (
 				D06DC61D2C020AE500772686 /* RotateArray.swift in Sources */,
 				D05C88352BF9BB540025F7F8 /* PrimeNumbers.swift in Sources */,
+				D04B8F4C2C08BFAD00B0CC2E /* ClimbingStairs.swift in Sources */,
+				D06BEECF2C09EADF009A069B /* PascalTriangle.swift in Sources */,
 				D0D7DD8B2BF8C29A0012D881 /* ViewController.swift in Sources */,
 				D05C88252BF9B39E0025F7F8 /* ReverseInteger.swift in Sources */,
 				D04491222BFE441A00008D44 /* SumOf1dArray.swift in Sources */,
@@ -358,6 +386,8 @@
 				D05C88392BFA1A590025F7F8 /* TwoSum.swift in Sources */,
 				D0B4B42C2BFCF7FB00F3EA26 /* SecondLargestInArray.swift in Sources */,
 				D0D7DD872BF8C29A0012D881 /* AppDelegate.swift in Sources */,
+				D04B8F4A2C08306300B0CC2E /* FibonacciNumber.swift in Sources */,
+				D06BEECB2C09C12E009A069B /* Factorial.swift in Sources */,
 				D0D7DD892BF8C29A0012D881 /* SceneDelegate.swift in Sources */,
 				D04491242BFE473800008D44 /* SingleNumber.swift in Sources */,
 				D04B8F472C03487800B0CC2E /* MaximumSubArray.swift in Sources */,
@@ -366,6 +396,8 @@
 				D0B4B4292BFCEE2900F3EA26 /* LargestElementInArray .swift in Sources */,
 				D05C88372BF9DA2D0025F7F8 /* Sheive.swift in Sources */,
 				D05C88312BF9BA1E0025F7F8 /* PivotIndex.swift in Sources */,
+				D06BEEC92C09BA65009A069B /* OneToN.swift in Sources */,
+				D06BEECD2C09C77E009A069B /* NToOne.swift in Sources */,
 				D05C88272BF9B6170025F7F8 /* Sum.swift in Sources */,
 				D05C88332BF9BAA40025F7F8 /* StringMultyply.swift in Sources */,
 				D05C882F2BF9B9510025F7F8 /* CommonFactor.swift in Sources */,

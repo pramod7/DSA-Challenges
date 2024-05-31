@@ -32,6 +32,14 @@ class ViewController: UIViewController {
 //         SumOf1dArray.init().excecute()
 //        ThreeSum.init().excecute()
 //        RotateArray.init().excecute()
-        MaximumSubArray.init().excecute()
+//        MaximumSubArray.init().excecute()
+        
+        //Recusrion
+//        FibonacciNumber.init().excecute()
+//        ClimbingStairs.init().excecute()
+//        OneToN.init().excecute()
+//        NToOne.init().excecute()
+//        Factorial.init().excecute()
+        PascalTriangle.init().excecute()
     }
 }
